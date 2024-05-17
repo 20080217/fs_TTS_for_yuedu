@@ -28,7 +28,7 @@
 * **请求方式**: 项目目前仅接受 POST 请求。
 * **文本长度**:  建议在阅读软件内对过长的文本进行处理，以避免潜在问题。
 * **并发率**:  在阅读软件内导入 TTS 服务器时，建议将并发率参数设置为大于 1 的值，以提高生成音频的连贯性，并减少生成速度慢于朗读速度的情况。
-* **应该如何在开源阅读构建url?**: 'http(s)://your_ip:your_port/process?text={{java.encodeURI(speakText)}}&speaker=角色_ZH(&speaker2=角色2_ZH)'
+* **应该如何在开源阅读构建url?**: `http(s)://your_ip:your_port/process?text={{java.encodeURI(speakText)}}&speaker=角色_ZH(&speaker2=角色2_ZH)`
 ### 🤝 兼容性
 
 本项目针对当前版本的 Fish Speech 做了一些调整，例如：
