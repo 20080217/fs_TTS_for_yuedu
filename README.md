@@ -13,8 +13,9 @@
 ### 🚀 快速上手
 
 1. **克隆项目**: 将本仓库克隆到您的计算机。
-2. **安装依赖**: 在项目根目录下，打开终端并执行 `pip install -r requirements.txt` 安装所需依赖。
-3. **启动服务器**: 在终端输入 `uvicorn main:app --host 0.0.0.0` 启动项目。
+2. **安装ffmpeg** 请您自行搜索如何在您使用的系统上安装ffmpeg。
+3. **安装依赖**: 在项目根目录下，打开终端并执行 `pip install -r requirements.txt` 安装所需依赖。
+4. **启动服务器**: 在终端输入 `uvicorn main:app --host 0.0.0.0` 启动项目。
 
 ### ⚙️ 配置选项
 
