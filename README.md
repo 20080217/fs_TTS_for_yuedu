@@ -1,6 +1,7 @@
 ##  📖 fs_TTS_for_yuedu：为开源阅读软件打造的 Fish Speech 中转服务器
 
 [![Python](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/)
+**请注意，由于官方网站已经改版，该项目现已失效**
 
 本项目是一个轻量级中转服务器，利用 [Fish Speech (FS)](https://github.com/fishaudio/fish-speech) 项目为开源阅读软件提供高质量的文本转语音 (TTS) 功能。
 
